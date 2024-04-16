@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Dos_attack_code/GoldenEye" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dos_attack_code/HULK-v3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dos_attack_code/slowloris" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cicflowmeter" vcs="Git" />
+  </component>
+</project>

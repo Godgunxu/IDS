@@ -1,5 +1,3 @@
-Here’s the complete .md content for your README file:
-
 # Network Flow Classification Using Decision Trees
 
 **Authors:** Y. Chen & G. Xu  
@@ -35,52 +33,6 @@ Ensure the following dependencies are installed:
 - scikit-learn  
 - matplotlib  
 
-Install them using pip:  
-```bash
-pip install numpy scikit-learn matplotlib
-
-Usage
-
-Training the Model
-
-To train the Decision Tree model, use the following command:
-
-python main.py --option train --train_path ./flows_benign_and_DoS.csv
-
-Replace ./flows_benign_and_DoS.csv with the path to your dataset for training.
-
-Testing the Model
-
-To test the Decision Tree model, use the following command:
-
-python main.py --option test --test_path ../test.csv --model_path ./decision_tree_model.pkl
-
-Replace ../test.csv with the path to your test dataset.
-
-Testing the Model on Our Dataset
-
-To test the model on our custom dataset, use this command:
-
-python main.py --option test --test_path ./Dataset_kali/dataset.csv --model_path ./Dataset_kali/our_model.pkl
-
-Test Script Example
-
-To compute and print evaluation metrics, replace the dataset path and run:
-
-python main.py --option test --test_path ../test.csv --model_path ./decision_tree_model.pkl
-
-Or simply use:
-
-python test.py
-
-Project Highlights
-	•	Flexible Usage: Easily adaptable for other datasets.
-	•	Custom Dataset Support: Includes pre-trained models for specific datasets.
-	•	Key Tools: Utilizes scikit-learn for Decision Tree implementation.
-
-Contributing
-
+## Contributions
 We welcome contributions! Whether you have feature suggestions or bug reports, please submit an issue or pull request to this repository.
-
-This README provides clear instructions for setting up, running, and contributing to the project. If you have questions or need support, feel free to reach out!
 

@@ -1,6 +1,6 @@
 # Network Flow Classification Using Decision Trees
 
-**Authors:** Y. Chen & G. Xu  
+**Authors:** G. Xu  
 **Date:** April 10, 2024  
 
 This project focuses on classifying network flow data into various categories using Decision Trees. It involves training and testing a Decision Tree model on network flow datasets and evaluating its performance using key metrics.
